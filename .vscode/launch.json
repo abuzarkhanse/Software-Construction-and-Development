@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SumEvenNumbers",
+            "request": "launch",
+            "mainClass": "SumEvenNumbers",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibility",
+            "request": "launch",
+            "mainClass": "VotingEligibility",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddChecker",
+            "request": "launch",
+            "mainClass": "EvenOddChecker",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "MenuExample",
+            "request": "launch",
+            "mainClass": "MenuExample",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileExample",
+            "request": "launch",
+            "mainClass": "DoWhileExample",
+            "projectName": "SCD Lab_93e0c792"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "SCD Lab_93e0c792"
+        }
+    ]
+}
