@@ -1,0 +1,8 @@
+Today: 06/02/2025
+
+The Expert Lecture was aarranged by Dr. Nabeel our instructur for Course:
+Software Consruction and Development
+
+This is about Version Control
+
+Where we study about Git and Github 

@@ -1,0 +1,4 @@
+> git push -u origin master
+To https://github.com/abuzarkhanse/Lab-Tasks.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': reference already exists)
+error: failed to push some refs to 'https://github.com/abuzarkhanse/Lab-Tasks.git'
